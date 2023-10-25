@@ -1,4 +1,4 @@
 
 int main();
-extern int master();
+int master();
 
